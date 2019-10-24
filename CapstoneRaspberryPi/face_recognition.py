@@ -12,7 +12,7 @@ font = cv2.FONT_HERSHEY_SIMPLEX
 id = 0
 
 # 이런식으로 사용자의 이름을 사용자 수만큼 추가해준다.
-names = ['Jaeseong', 'JooHyeong', 'Deughwa']
+names = ['Jaeseong', 'JooHyeong', 'Deughwa', 'Unknown']
 
 # Initialize and start realtime video capture
 cam = cv2.VideoCapture(0)
